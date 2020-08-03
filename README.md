@@ -21,7 +21,7 @@ pip install opencv-python
 pip install numpy
 ```
 
-## Step -2 Run the invisible.py
+### Step -2 Run the invisible.py
 
 ```
 python invisible.py
